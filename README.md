@@ -9,7 +9,7 @@ The paper those heuristics are based on is inside this repository.
 
 Some pictures from the simulator, how it looks like:
 
-Maps:
+## Maps
 
 *Building*
 
@@ -24,7 +24,7 @@ Maps:
 
 <img src="/Screen%20Shot%202020-02-25%20at%204.34.10%20PM.png" width="548">
 
-Pathfindings:
+## Pathfindings
 
 *Building*
 
