@@ -11,4 +11,30 @@ Some pictures from the simulator, how it looks like:
 
 Maps:
 
+*Building*
+
+<img src="/Screen%20Shot%202020-02-25%20at%204.33.04%20PM.png" width="548">
+
+*Sea*
+
+<img src="/Screen%20Shot%202020-02-25%20at%204.34.57%20PM.png" width="548">
+
+
+*Land*
+
+<img src="/Screen%20Shot%202020-02-25%20at%204.34.10%20PM.png" width="548">
+
 Pathfindings:
+
+*Building*
+
+<img src="/Screen%20Shot%202020-02-25%20at%204.33.38%20PM.png" width="548">
+
+*Sea*
+
+<img src="/Screen%20Shot%202020-02-25%20at%204.35.39%20PM.png" width="548">
+
+
+*Land*
+
+<img src="/Screen%20Shot%202020-02-25%20at%204.34.35%20PM.png" width="548">
